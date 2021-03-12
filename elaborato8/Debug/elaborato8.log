@@ -1,0 +1,7 @@
+﻿  snake.c
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato8\elaborato8\snake.c(36): warning C4244: 'funzione': conversione da 'time_t' a 'unsigned int'. Possibile perdita di dati.
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato8\elaborato8\snake.c(85): warning C4018: '<': errata corrispondenza tra signed e unsigned
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato8\elaborato8\snake.c(98): warning C4013: 'snake_increase' non definita. Verrà considerata come esterna che restituisce un int.
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato8\elaborato8\snake.c(99): warning C4013: 'snake_decrease' non definita. Verrà considerata come esterna che restituisce un int.
+e:\ing.informatica\programmazione c\cartella elaborati settimanali\elaborato8\elaborato8\snake.c(112): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  elaborato8.vcxproj -> E:\Ing.Informatica\Programmazione C\Cartella elaborati settimanali\elaborato8\Debug\elaborato8.exe
